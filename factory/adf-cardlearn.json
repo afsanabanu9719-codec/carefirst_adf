@@ -1,0 +1,15 @@
+{
+	"name": "adf-cardlearn",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9323418b-dc38-48ca-899e-8b1b4af80be1",
+		"tenantId": "6226eea3-2ad0-465a-ae0b-fbff6d7e1265"
+	}
+}
